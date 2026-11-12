@@ -1,0 +1,10 @@
+__pycache__/
+.DS_Store
+*.pyc
+.venv/
+.ruff_cache/
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
